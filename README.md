@@ -94,6 +94,8 @@
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/wiruto)
+- [GitHub](https://github.com/Wiruto)
+  
 
 ---
 
